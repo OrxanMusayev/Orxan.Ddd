@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Orxan\\Projects\\Orxan.Ddd\\Orxan.Ddd\\src\\Orxan.Ddd.Core\\Orxan.Ddd.Core.csproj",
+      "projectUniqueName": "C:\\Orxan\\Projects\\Orxan.Ddd\\api\\src\\Orxan.Ddd.Core\\Orxan.Ddd.Core.csproj",
       "projectName": "Orxan.Ddd.Core",
-      "projectPath": "C:\\Orxan\\Projects\\Orxan.Ddd\\Orxan.Ddd\\src\\Orxan.Ddd.Core\\Orxan.Ddd.Core.csproj",
+      "projectPath": "C:\\Orxan\\Projects\\Orxan.Ddd\\api\\src\\Orxan.Ddd.Core\\Orxan.Ddd.Core.csproj",
       "packagesPath": "C:\\Users\\orxan\\.nuget\\packages\\",
-      "outputPath": "C:\\Orxan\\Projects\\Orxan.Ddd\\Orxan.Ddd\\src\\Orxan.Ddd.Core\\obj\\",
+      "outputPath": "C:\\Orxan\\Projects\\Orxan.Ddd\\api\\src\\Orxan.Ddd.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orxan\\AppData\\Roaming\\NuGet\\NuGet.Config",
