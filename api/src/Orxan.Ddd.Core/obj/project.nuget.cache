@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BUu5etVgcXJoLwNiWsiHq0hWkzTwA65KKpuXw0qlnLlzir5El8EPyE0VM2aNziWq99T+vcmLweDdcjF9zXOasg==",
+  "dgSpecHash": "tHjdfyjH4a/vWkDgdqkkNCBAIY7HF7e4FfBRqbQwM4uYjddp4spPD4HUMiT6hhZCqjCwra/HGA2mMUSixSumAA==",
   "success": true,
-  "projectFilePath": "C:\\Orxan\\Projects\\Orxan.Ddd\\Orxan.Ddd\\src\\Orxan.Ddd.Core\\Orxan.Ddd.Core.csproj",
+  "projectFilePath": "C:\\Orxan\\Projects\\Orxan.Ddd\\api\\src\\Orxan.Ddd.Core\\Orxan.Ddd.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
